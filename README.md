@@ -1,16 +1,25 @@
-# chat_apps
+# Chat Apps
+# Latihan AppBar, TabBar, Date Format
+## android studio : Flutter(Dart)
+### Fahreza Ditya Alfandry 19 / XI RPL 3
 
-A new Flutter project.
+<details>
+    <summary>Mobile Apps</summary>
 
-## Getting Started
+### Mobile Apps
+#### Chat
+![Chat](https://github.com/fhrzdty31/Chat-Apps/blob/eb232fa0d75d84e91ca955736c447a540f2d4213/screenshot/Screenshot_2022-07-18-17-21-00-77_440c70292c9792a1dfaf787632a674a0.jpg)
+#### Group
+![Group](https://github.com/fhrzdty31/Chat-Apps/blob/eb232fa0d75d84e91ca955736c447a540f2d4213/screenshot/Screenshot_2022-07-18-17-21-08-28_440c70292c9792a1dfaf787632a674a0.jpg)
 
-This project is a starting point for a Flutter application.
+</details>
+<details>
+    <summary>Web Apps</summary>
 
-A few resources to get you started if this is your first Flutter project:
+### Web Apps
+#### Chat
+![Chat](https://github.com/fhrzdty31/Chat-Apps/blob/eb232fa0d75d84e91ca955736c447a540f2d4213/screenshot/Screenshot%20(001).png)
+#### Group
+![Group](https://github.com/fhrzdty31/Chat-Apps/blob/eb232fa0d75d84e91ca955736c447a540f2d4213/screenshot/Screenshot%20(002).png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</details>
