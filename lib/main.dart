@@ -25,7 +25,9 @@ class _MyAppState extends State<MyApp> {
         length: 2,
         child: Scaffold(
           appBar: AppBar(
+            leading: Icon(Icons.chat_outlined),
             title: const Text("Chat App"),
+            actions: [Icon(Icons.search), Container(width: 15,)],
             bottom: TabBar(
               tabs: myTab,
               indicatorWeight: 4.5,
